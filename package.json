@@ -5,12 +5,14 @@
   "dependencies": {
     "google-map-react": "^0.24.0",
     "leaflet": "^1.2.0",
+    "mapbox-gl": "^0.41.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-google-maps": "^8.5.0",
     "react-leaflet": "^1.7.1",
     "react-map-gl": "^3.0.5",
+    "react-mapbox-gl": "^2.7.0",
     "react-scripts": "1.0.14"
   },
   "scripts": {
